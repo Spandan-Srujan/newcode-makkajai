@@ -1,1 +1,1 @@
-# newcode-makkajai
+Improved code showcasing oops design ability
